@@ -11,7 +11,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Reference to the current class/object, used to invoke methods
 
 
 
@@ -19,7 +19,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Package manager that handles dependencies, files: package.json, yark.lock
 
 
 
@@ -27,7 +27,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Global object, pass information -> one directional flow from parent to child
 
 
 
@@ -35,7 +35,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: HTML & JavaScript, markup in JS
 
 
 
@@ -43,7 +43,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Click, text, hover, DOM is listening for changes, all the changes can be acted on
 
 
 
@@ -51,17 +51,17 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Unnamed function, can be with the arrow syntax
 
 
 ## Looking Ahead: Terms for Next Week
 
-1. Conditional rendering:
+1. Conditional rendering: sorta like conditional statements, &&
 
-2. Ruby:
+2. Ruby: Dynamic, open source, oop language, loves simplicity
 
-3. Object oriented programming:
+3. Object oriented programming: based on objects that contain data and logic, object can interact with each other
 
-4. Ruby hash:
+4. Ruby hash: Collection of unique keys and their values
 
-5. Ruby blocks:
+5. Ruby blocks: Anonymous function that are passed to methods
